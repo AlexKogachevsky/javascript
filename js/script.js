@@ -21,4 +21,4 @@
 // var dog = "Bim";
 // console.log(dog);
 
-alert( 'Привет, мир!' );
+alert( 'Я JavaScript!' );
