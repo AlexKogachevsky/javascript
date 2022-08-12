@@ -22,3 +22,4 @@
 // console.log(dog);
 
 alert( 'Я JavaScript!' );
+let a = 1
